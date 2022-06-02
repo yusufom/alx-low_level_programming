@@ -2,7 +2,7 @@
 *main - Entry point
 *
 *This program prints
-*the size of chararcter data types
+*the size of chararcter data type
 *
 *Return: Always 0 (Success)
 */
