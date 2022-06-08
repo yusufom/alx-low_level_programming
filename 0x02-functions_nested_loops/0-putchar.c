@@ -11,9 +11,9 @@ int main(void)
 	unsigned int i;
 
 	for (i = 0; i < sizeof(_printchar); i++)
-{
-	_putchar(_printchar[i]);
-}
+	{
+		_putchar(_printchar[i]);
+	}
 	_putchar('\n');
 
 	return (0);
