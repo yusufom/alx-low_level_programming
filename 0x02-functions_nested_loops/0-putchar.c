@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-  char _printchar[8] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
+	char _printchar[8] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
 	unsigned int i;
 
 	for (i = 0; i < sizeof(_printchar); i++)
